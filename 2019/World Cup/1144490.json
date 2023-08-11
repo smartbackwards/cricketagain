@@ -6521,6 +6521,7 @@
               },
               "misfield": {
                 "type": "caught",
+                "easy": true,
                 "fielders": [
                   {
                     "name": "DA Miller"

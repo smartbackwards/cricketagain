@@ -3430,6 +3430,14 @@
                 "batter": 2,
                 "extras": 0,
                 "total": 2
+              },
+              "misfield": {
+                "type": "caught",
+                "fielders": [
+                  {
+                    "name": "BD Glover"
+                  }
+                ]
               }
             }
           ]

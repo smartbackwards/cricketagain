@@ -1,0 +1,24 @@
+MJ Guptill;20
+C Munro;6
+KS Williamson;12
+LRPL Taylor;18
+TWM Latham;20
+JDS Neesham;17
+C de Grandhomme;17
+MJ Santner;16
+MJ Henry;14
+LH Ferguson;10
+TA Boult;14
+HM Nicholls;14
+IS Sodhi;6
+TG Southee;4
+TA Blundell;2
+HK Bennett;3
+MS Chapman;1
+KA Jamieson;8
+DP Conway;3
+WA Young;5
+DJ Mitchell;3
+MG Bracewell;3
+BM Tickner;2
+DAJ Bracewell;2

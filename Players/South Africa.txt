@@ -1,0 +1,34 @@
+Q de Kock;23
+HM Amla;7
+AK Markram;20
+F du Plessis;9
+HE van der Dussen;26
+JP Duminy;5
+D Pretorius;5
+AL Phehlukwayo;29
+K Rabada;19
+L Ngidi;17
+Imran Tahir;9
+DA Miller;23
+CH Morris;8
+T Shamsi;20
+BE Hendricks;6
+JN Malan;17
+T Bavuma;17
+K Verreynne;12
+H Klaasen;10
+KA Maharaj;17
+A Nortje;8
+JT Smuts;6
+L Sipamla;5
+DM Dupavillon;2
+RR Hendricks;6
+BC Fortuin;1
+LB Williams;1
+PWA Mulder;2
+GF Linde;2
+M Jansen;2
+WD Parnell;2
+SSB Magala;3
+Zubayr Hamza;1
+K Zondo;1

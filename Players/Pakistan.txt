@@ -1,0 +1,31 @@
+Imam-ul-Haq;21
+Fakhar Zaman;20
+Babar Azam;22
+Haris Sohail;8
+Sarfraz Ahmed;11
+Mohammad Hafeez;8
+Imad Wasim;9
+Shadab Khan;14
+Hasan Ali;9
+Wahab Riaz;12
+Mohammad Amir;10
+Asif Ali;5
+Shoaib Malik;3
+Shaheen Shah Afridi;16
+Iftikhar Ahmed;8
+Usman Shinwari;2
+Abid Ali;3
+Mohammad Nawaz (3);2
+Mohammad Rizwan;12
+Faheem Ashraf;8
+Haris Rauf;11
+Haider Ali;2
+Muhammad Musa;2
+Khushdil Shah;4
+Mohammad Hasnain;3
+Saud Shakeel;5
+Sohaib Maqsood;3
+Danish Aziz;2
+Usman Qadir;1
+Mohammad Wasim;3
+Zahid Mahmood;3

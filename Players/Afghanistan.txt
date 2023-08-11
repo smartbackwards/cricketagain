@@ -1,0 +1,30 @@
+Mohammad Shahzad;2
+Hazratullah;8
+Rahmat Shah;21
+Hashmatullah Shahidi;16
+Mohammad Nabi;18
+Gulbadin Naib;17
+Najibullah Zadran;20
+Rashid Khan;21
+Dawlat Zadran;5
+Mujeeb Ur Rahman;19
+Hamid Hassan;5
+Noor Ali Zadran;3
+Ikram Alikhil;10
+Aftab Alam;3
+Asghar Stanikzai;12
+Samiullah Shenwari;3
+Sayed Shirzad;1
+Javed Ahmadi;5
+Naveen-ul-Haq;5
+Sharafuddin Ashraf;4
+Ibrahim Zadran;2
+Yamin Ahmadzai;4
+Rahmanullah Gurbaz;9
+Azmatullah Omarzai;4
+Fazalhaq Farooqi;4
+Riaz Hassan;3
+Fareed Ahmad;3
+Usman Ghani;2
+Shahidullah;1
+Qais Ahmad;1

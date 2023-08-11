@@ -1,0 +1,22 @@
+SJ Myburgh;7
+MP O'Dowd;7
+BN Cooper;3
+BFW de Leede;10
+PM Seelaar;10
+SA Edwards;10
+Saqib Zulfiqar;5
+LV van Beek;6
+T van der Gugten;4
+FJ Klaassen;9
+BD Glover;7
+Musa Ahmed;3
+VJ Kingma;5
+Vikramjit Singh;3
+MJG Rippon;3
+PRP Boissevain;4
+A Dutt;3
+C Floyd;2
+CN Ackermann;4
+RE van der Merwe;1
+BHG Gorlee;3
+R Klein;1

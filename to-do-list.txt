@@ -1,0 +1,50 @@
+2022:
+WI in NED
+AFG in ZIM
+WI in PAK
+AUS in SL
+ENG in NED
+IND in ENG
+BAN in WI
+NZ in IRE
+SA in ENG
+IND in WI
+NZ in SCO
+PAK in NED
+NZ in WI
+IND in ZIM
+ZIM in AUS
+NZ in AUS
+
+2022-23:
+NED in SA
+SA in IND
+UAE in NEP
+ENG in AUS
+AFG in SL
+IND in NZ
+IND in BAN
+NZ in PAK
+SL in IND
+NZ in IND
+ENG in SA
+ENG in BAN
+WI in SA
+AUS in IND
+IRE in BAN
+NED in ZIM
+SL in NZ
+
+2023:
+NZ in PAK
+IRE in BAN
+AFG in SL
+WI in UAE
+CWCQ
+AFG in BAN
+IND in WI
+---
+AFG in PAK
+AC
+NZ in ENG
+IRE in ENG

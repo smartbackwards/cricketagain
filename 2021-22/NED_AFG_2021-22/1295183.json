@@ -956,14 +956,6 @@
                 "batter": 0,
                 "extras": 0,
                 "total": 0
-              },
-              "misfield": {
-                "type": "caught",
-                "fielders": [
-                  {
-                    "name": "Najibullah Zadran"
-                  }
-                ]
               }
             },
             {
@@ -4388,6 +4380,14 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
+              },
+              "misfield": {
+                "type": "caught",
+                "fielders": [
+                  {
+                    "name": "Najibullah Zadran"
+                  }
+                ]
               }
             },
             {
