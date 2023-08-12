@@ -1921,6 +1921,7 @@
               },
               "misfield": {
                 "type": "caught",
+                "easy": true,
                 "fielders": [
                   {
                     "name": "AK Markram"
@@ -6071,6 +6072,14 @@
                 "batter": 0,
                 "extras": 0,
                 "total": 0
+              },
+              "misfield": {
+                "type": "run out",
+                "fielders": [
+                  {
+                    "name": "KL Rahul"
+                  }
+                ]
               }
             }
           ]

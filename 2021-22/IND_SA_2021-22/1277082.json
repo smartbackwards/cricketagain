@@ -3214,6 +3214,14 @@
                 "batter": 4,
                 "extras": 0,
                 "total": 4
+              },
+              "misfield": {
+                "type": "caught",
+                "fielders": [
+                  {
+                    "name": "V Kohli"
+                  }
+                ]
               }
             },
             {

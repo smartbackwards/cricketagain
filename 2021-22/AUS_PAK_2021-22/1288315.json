@@ -1681,7 +1681,6 @@
               },
               "misfield": {
                 "type": "run out",
-                "difficulty": "misfield",
                 "fielders": [
                   {
                     "name": "Haris Rauf"
@@ -2555,7 +2554,7 @@
               },
               "misfield": {
                 "type": "run out",
-                "difficulty": "",
+
                 "fielders": [
                   {
                     "name": "Fakhar Zaman"
@@ -2604,15 +2603,6 @@
                 "batter": 2,
                 "extras": 0,
                 "total": 2
-              },
-              "misfield": {
-                "type": "field",
-                "difficulty": "2 run",
-                "fielders": [
-                  {
-                    "name": "Asif Ali"
-                  }
-                ]
               }
             },
             {
@@ -3142,15 +3132,6 @@
                 "batter": 4,
                 "extras": 0,
                 "total": 4
-              },
-              "misfield": {
-                "type": "field",
-                "difficulty": "4 runs",
-                "fielders": [
-                  {
-                    "name": "SA Abbott"
-                  }
-                ]
               }
             }
           ]
@@ -3254,15 +3235,6 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
-              },
-              "misfield": {
-                "type": "field",
-                "difficulty": "1 run",
-                "fielders": [
-                  {
-                    "name": "BR McDermott"
-                  }
-                ]
               }
             },
             {
@@ -3573,15 +3545,6 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
-              },
-              "misfield": {
-                "type": "field",
-                "difficulty": "1 run",
-                "fielders": [
-                  {
-                    "name": "SA Abbott"
-                  }
-                ]
               }
             },
             {
@@ -4703,7 +4666,7 @@
               },
               "misfield": {
                 "type": "run out",
-                "difficulty": "",
+
                 "fielders": [
                   {
                     "name": "Iftikhar Ahmed"
