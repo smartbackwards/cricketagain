@@ -1,34 +1,38 @@
-Q de Kock;23
+Q de Kock;34
 HM Amla;7
-AK Markram;20
+AK Markram;32
 F du Plessis;9
-HE van der Dussen;26
+HE van der Dussen;36
 JP Duminy;5
-D Pretorius;5
-AL Phehlukwayo;29
-K Rabada;19
-L Ngidi;17
+D Pretorius;8
+AL Phehlukwayo;31
+K Rabada;23
+L Ngidi;27
 Imran Tahir;9
-DA Miller;23
+DA Miller;35
 CH Morris;8
-T Shamsi;20
+T Shamsi;29
 BE Hendricks;6
-JN Malan;17
-T Bavuma;17
+JN Malan;23
+T Bavuma;24
 K Verreynne;12
-H Klaasen;10
-KA Maharaj;17
-A Nortje;8
+H Klaasen;22
+KA Maharaj;23
+A Nortje;17
 JT Smuts;6
 L Sipamla;5
 DM Dupavillon;2
-RR Hendricks;6
-BC Fortuin;1
+RR Hendricks;9
+BC Fortuin;5
 LB Williams;1
 PWA Mulder;2
 GF Linde;2
-M Jansen;2
-WD Parnell;2
-SSB Magala;3
+M Jansen;9
+WD Parnell;8
+SSB Magala;7
 Zubayr Hamza;1
 K Zondo;1
+RD Rickelton;2
+T de Zorzi;2
+T Stubbs;1
+G Coetzee;2

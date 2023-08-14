@@ -1,28 +1,32 @@
-Tamim Iqbal;35
+Tamim Iqbal;48
 Soumya Sarkar;17
 Mohammad Mithun;16
-Mushfiqur Rahim;31
-Mahmudullah;34
+Mushfiqur Rahim;46
+Mahmudullah;43
 Sabbir Rahman;5
-Mosaddek Hossain;15
-Mehedi Hasan Miraz;33
+Mosaddek Hossain;17
+Mehedi Hasan Miraz;49
 Shafiul Islam;4
 Rubel Hossain;7
-Mustafizur Rahman;30
-Taijul Islam;7
-Anamul Haque;4
-Shakib Al Hasan;23
+Mustafizur Rahman;43
+Taijul Islam;14
+Anamul Haque;7
+Shakib Al Hasan;37
 Mohammad Saifuddin;16
 Mashrafe Mortaza;11
-Liton Das;26
-Nazmul Hossain Shanto;7
+Liton Das;44
+Nazmul Hossain Shanto;24
 Al-Amin Hossain;1
-Afif Hossain;16
-Mohammad Naim;2
+Afif Hossain;28
+Mohammad Naim;4
 Mahedi Hasan;3
-Taskin Ahmed;18
-Hasan Mahmud;5
-Shoriful Islam;12
-Nurul Hasan;1
-Yasir Ali Chowdhury;6
-Ebadat Hossain;1
+Taskin Ahmed;27
+Hasan Mahmud;13
+Shoriful Islam;17
+Nurul Hasan;4
+Yasir Ali Chowdhury;9
+Ebadat Hossain;12
+Nasum Ahmed;7
+Towhid Hridoy;9
+Rony Talukdar;1
+Mrittunjoy Chowdhury;1

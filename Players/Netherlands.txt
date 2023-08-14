@@ -1,22 +1,30 @@
 SJ Myburgh;7
-MP O'Dowd;7
+MP O'Dowd;29
 BN Cooper;3
-BFW de Leede;10
-PM Seelaar;10
-SA Edwards;10
-Saqib Zulfiqar;5
-LV van Beek;6
+BFW de Leede;26
+PM Seelaar;14
+SA Edwards;32
+Saqib Zulfiqar;11
+LV van Beek;23
 T van der Gugten;4
-FJ Klaassen;9
-BD Glover;7
-Musa Ahmed;3
-VJ Kingma;5
-Vikramjit Singh;3
+FJ Klaassen;15
+BD Glover;8
+Musa Ahmed;13
+VJ Kingma;13
+Vikramjit Singh;25
 MJG Rippon;3
-PRP Boissevain;4
-A Dutt;3
-C Floyd;2
-CN Ackermann;4
+PRP Boissevain;5
+A Dutt;23
+C Floyd;9
+CN Ackermann;7
 RE van der Merwe;1
 BHG Gorlee;3
-R Klein;1
+R Klein;12
+TLW Cooper;9
+S Snater;2
+AT Nidamanuru;20
+TJG Pringle;4
+PA van Meekeren;6
+W Barresi;13
+Shariz Ahmad;11
+NRJ Croes;1
