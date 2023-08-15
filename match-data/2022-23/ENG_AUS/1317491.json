@@ -1927,6 +1927,14 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
+              },
+              "misfield": {
+                "type": "caught",
+                "fielders": [
+                  {
+                    "name": "LA Dawson"
+                  }
+                ]
               }
             },
             {
@@ -5382,14 +5390,6 @@
                 "batter": 4,
                 "extras": 0,
                 "total": 4
-              },
-              "misfield": {
-                "type": "caught",
-                "fielders": [
-                  {
-                    "name": "LA Dawson"
-                  }
-                ]
               }
             },
             {

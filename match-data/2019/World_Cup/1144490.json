@@ -6337,7 +6337,8 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "AK Markram"
+                    "name": "AK Markram",
+                    "substitute": true
                   }
                 ]
               }

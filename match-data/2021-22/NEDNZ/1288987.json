@@ -1736,15 +1736,6 @@
                 "batter": 0,
                 "extras": 0,
                 "total": 0
-              },
-              "misfield": {
-                "type": "caught",
-                "difficulty": "tough",
-                "fielders": [
-                  {
-                    "name": "DAJ Bracewell"
-                  }
-                ]
               }
             },
             {

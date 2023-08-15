@@ -2851,7 +2851,8 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "KU Carty"
+                    "name": "KU Carty",
+                    "substitute": true
                   }
                 ]
               }

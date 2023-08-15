@@ -5836,7 +5836,8 @@
                 "type": "run out",
                 "fielders": [
                   {
-                    "name": "Shubman Gill"
+                    "name": "Shubman Gill",
+                    "substitute": true
                   }
                 ]
               }

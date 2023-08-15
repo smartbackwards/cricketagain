@@ -6152,7 +6152,8 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "Fakhar Zaman"
+                    "name": "Fakhar Zaman",
+                    "substitute": true
                   }
                 ]
               }

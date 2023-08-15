@@ -1292,7 +1292,8 @@
                 "type": "run out",
                 "fielders": [
                   {
-                    "name": "Hazratullah Zazai"
+                    "name": "Hazratullah Zazai",
+                    "substitute": true
                   }
                 ]
               }

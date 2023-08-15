@@ -1670,15 +1670,6 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
-              },
-              "misfield": {
-                "type": "field",
-                "difficulty": "1 run",
-                "fielders": [
-                  {
-                    "name": "unknown"
-                  }
-                ]
               }
             }
           ]
@@ -2643,7 +2634,7 @@
                 "difficulty": "regular",
                 "fielders": [
                   {
-                    "name": "Yasir Ali"
+                    "name": "Yasir Ali Chowdhury"
                   }
                 ]
               }

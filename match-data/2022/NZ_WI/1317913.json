@@ -3779,7 +3779,8 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "J Blackwood"
+                    "name": "J Blackwood",
+                    "substitute": true
                   }
                 ]
               }

@@ -4025,7 +4025,8 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "TE Kane"
+                    "name": "TE Kane",
+                    "substitute": true
                   }
                 ]
               }
@@ -4429,7 +4430,7 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "JB Little"
+                    "name": "J Little"
                   }
                 ]
               }

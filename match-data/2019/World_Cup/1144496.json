@@ -6455,7 +6455,8 @@
                 "type": "run out",
                 "fielders": [
                   {
-                    "name": "RA Jadeja"
+                    "name": "RA Jadeja",
+                    "substitute": true
                   }
                 ]
               }

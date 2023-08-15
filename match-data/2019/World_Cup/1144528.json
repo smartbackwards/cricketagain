@@ -1007,14 +1007,6 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
-              },
-              "misfield": {
-                "type": "caught",
-                "fielders": [
-                  {
-                    "name": "JDS Neesham"
-                  }
-                ]
               }
             },
             {
@@ -4486,6 +4478,14 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
+              },
+              "misfield": {
+                "type": "caught",
+                "fielders": [
+                  {
+                    "name": "JDS Neesham"
+                  }
+                ]
               }
             },
             {

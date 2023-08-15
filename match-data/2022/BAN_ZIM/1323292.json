@@ -5419,7 +5419,8 @@
                 "type": "caught",
                 "fielders": [
                   {
-                    "name": "Taijul Islam"
+                    "name": "Taijul Islam",
+                    "substitute": true
                   }
                 ]
               }

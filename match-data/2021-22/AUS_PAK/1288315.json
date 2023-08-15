@@ -1751,6 +1751,15 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
+              },
+              "misfield": {
+                "type": "run out",
+
+                "fielders": [
+                  {
+                    "name": "Iftikhar Ahmed"
+                  }
+                ]
               }
             },
             {
@@ -4663,15 +4672,6 @@
                 "batter": 1,
                 "extras": 0,
                 "total": 1
-              },
-              "misfield": {
-                "type": "run out",
-
-                "fielders": [
-                  {
-                    "name": "Iftikhar Ahmed"
-                  }
-                ]
               }
             },
             {
