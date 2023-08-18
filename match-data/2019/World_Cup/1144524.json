@@ -3471,6 +3471,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Ikram Alikhil"
+                    },
+                    {
+                      "name": "Sayed Shirzad"
+                    }
+                  ],
                   "player_out": "N Pooran"
                 }
               ]
@@ -6011,6 +6019,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SO Hetmyer"
+                    },
+                    {
+                      "name": "CR Brathwaite"
+                    }
+                  ],
                   "player_out": "Najibullah Zadran"
                 }
               ]

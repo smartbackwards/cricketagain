@@ -1391,6 +1391,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SS Cottrell"
+                    },
+                    {
+                      "name": "CR Brathwaite"
+                    }
+                  ],
                   "player_out": "MDKJ Perera"
                 }
               ]
@@ -4891,6 +4899,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "PWH de Silva"
+                    }
+                  ],
                   "player_out": "SO Hetmyer"
                 }
               ]
@@ -6099,6 +6112,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "I Udana"
+                    }
+                  ],
                   "player_out": "CR Brathwaite"
                 }
               ]
@@ -6764,6 +6782,15 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  
+                  "fielders": [
+                    {
+                      "name": "CAK Rajitha"
+                    },
+                    {
+                      "name": "I Udana"
+                    }
+                  ],
                   "player_out": "FA Allen"
                 }
               ]

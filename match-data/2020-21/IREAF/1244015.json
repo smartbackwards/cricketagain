@@ -6396,6 +6396,11 @@
               "wickets": [
                 {
                   "player_out": "MR Adair",
+                  "fielders": [
+                    {
+                      "name": "Hashmatullah Shahidi"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]
@@ -6880,6 +6885,14 @@
               "wickets": [
                 {
                   "player_out": "Simi Singh",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nabi"
+                    },
+                    {
+                      "name": "Rahmanullah Gurbaz"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

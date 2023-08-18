@@ -3585,6 +3585,14 @@
               "wickets": [
                 {
                   "player_out": "Rashid Khan",
+                  "fielders": [
+                    {
+                      "name": "Simi Singh"
+                    },
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

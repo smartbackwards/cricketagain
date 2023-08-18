@@ -4633,6 +4633,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MA Wood"
+                    }
+                  ],
                   "player_out": "KS Williamson"
                 }
               ]
@@ -4734,6 +4739,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "AU Rashid"
+                    },
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
                   "player_out": "LRPL Taylor"
                 }
               ]

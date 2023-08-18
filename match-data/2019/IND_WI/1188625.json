@@ -3332,6 +3332,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "E Lewis"
+                    },
+                    {
+                      "name": "SS Cottrell"
+                    }
+                  ],
                   "player_out": "KM Jadhav"
                 }
               ]

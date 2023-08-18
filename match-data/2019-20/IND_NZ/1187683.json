@@ -2104,6 +2104,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SN Thakur"
+                    },
+                    {
+                      "name": "KL Rahul"
+                    }
+                  ],
                   "player_out": "MJ Guptill"
                 }
               ]
@@ -2453,6 +2461,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "RA Jadeja"
+                    }
+                  ],
                   "player_out": "JDS Neesham"
                 }
               ]
@@ -6922,6 +6935,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "JDS Neesham"
+                    },
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ],
                   "player_out": "YS Chahal"
                 }
               ]

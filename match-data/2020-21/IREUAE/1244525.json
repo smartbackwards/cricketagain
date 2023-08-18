@@ -5588,6 +5588,11 @@
               "wickets": [
                 {
                   "player_out": "Kashif Daud",
+                  "fielders": [
+                    {
+                      "name": "HT Tector"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]
@@ -6074,6 +6079,14 @@
               "wickets": [
                 {
                   "player_out": "KP Meiyappan",
+                  "fielders": [
+                    {
+                      "name": "KJ O'Brien"
+                    },
+                    {
+                      "name":"L Tucker"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

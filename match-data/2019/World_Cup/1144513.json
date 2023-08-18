@@ -5972,6 +5972,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Liton Das"
+                    }
+                  ],
                   "player_out": "Ikram Alikhil"
                 }
               ]

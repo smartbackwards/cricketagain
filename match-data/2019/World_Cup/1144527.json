@@ -4868,6 +4868,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "K Rabada"
+                    },
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
                   "player_out": "MP Stoinis"
                 }
               ]

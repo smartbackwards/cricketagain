@@ -1782,6 +1782,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "PWH de Silva"
+                    },
+                    {
+                      "name": "MDKJ Perera"
+                    }
+                  ],
                   "player_out": "Sabbir Rahman"
                 }
               ]
@@ -3556,6 +3564,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MDKJ Perera"
+                    },
+                    {
+                      "name": "N Pradeep"
+                    }
+                  ],
                   "player_out": "Taijul Islam"
                 }
               ]

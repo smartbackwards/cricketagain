@@ -1304,6 +1304,11 @@
               "wickets": [
                 {
                   "player_out": "KR Mayers",
+                  "fielders": [
+                    {
+                      "name": "Nazmul Hossain Shanto"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

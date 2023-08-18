@@ -3277,6 +3277,11 @@
               "wickets": [
                 {
                   "player_out": "AU Rashid",
+                  "fielders": [
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]
@@ -6415,6 +6420,14 @@
               "wickets": [
                 {
                   "player_out": "PR Stirling",
+                  "fielders": [
+                    {
+                      "name": "JJ Roy"
+                    },
+                    {
+                      "name": "TK Curran"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

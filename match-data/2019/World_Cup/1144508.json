@@ -3258,6 +3258,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Rubel Hossain"
+                    }
+                  ],
                   "player_out": "GJ Maxwell"
                 }
               ]
@@ -3800,6 +3805,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "AJ Finch"
+                    }
+                  ],
                   "player_out": "Soumya Sarkar"
                 }
               ]

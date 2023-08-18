@@ -6308,6 +6308,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Najibullah Zadran"
+                    },
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
                   "player_out": "Sarfraz Ahmed"
                 }
               ]
@@ -6830,6 +6838,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Gulbadin Naib"
+                    },
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
                   "player_out": "Shadab Khan"
                 }
               ]

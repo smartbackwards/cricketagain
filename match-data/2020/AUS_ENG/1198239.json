@@ -618,6 +618,11 @@
               "wickets": [
                 {
                   "player_out": "JJ Roy",
+                  "fielders": [
+                    {
+                      "name": "MP Stoinis"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

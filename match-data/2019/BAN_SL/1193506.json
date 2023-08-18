@@ -6076,6 +6076,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "FDM Karunaratne"
+                    },
+                    {
+                      "name": "MDKJ Perera"
+                    }
+                  ],
                   "player_out": "Rubel Hossain"
                 }
               ]

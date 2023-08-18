@@ -6811,6 +6811,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "GJ Maxwell"
+                    }
+                  ],
                   "player_out": "Sarfraz Ahmed"
                 }
               ]

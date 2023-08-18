@@ -3416,6 +3416,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
                   "player_out": "SPD Smith"
                 }
               ]

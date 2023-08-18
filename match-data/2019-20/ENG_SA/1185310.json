@@ -1199,6 +1199,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "HE van der Dussen"
+                    }
+                  ],
                   "player_out": "JE Root"
                 }
               ]

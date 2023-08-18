@@ -3529,6 +3529,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SPD Smith"
+                    }
+                  ],
                   "player_out": "Kuldeep Yadav"
                 }
               ]

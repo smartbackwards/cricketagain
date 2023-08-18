@@ -4590,6 +4590,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    },
+                    {
+                      "name":"RA Jadeja"
+                    }
+                  ],
                   "player_out": "SO Hetmyer"
                 }
               ]

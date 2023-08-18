@@ -1565,6 +1565,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SPD Smith"
+                    },
+                    {
+                      "name": "AT Carey"
+                    }
+                  ],
                   "player_out": "Mohammad Nabi"
                 }
               ]

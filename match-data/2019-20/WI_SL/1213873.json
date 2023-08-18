@@ -3557,6 +3557,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SD Hope"
+                    }, 
+                    {
+                      "name": "JO Holder"
+                    }
+                  ],
                   "player_out": "PADLR Sandakan"
                 }
               ]
@@ -6564,6 +6572,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MDKJ Perera"
+                    },
+                    {
+                      "name": "FDM Karunaratne"
+                    }
+                  ],
                   "player_out": "DM Bravo"
                 }
               ]
@@ -6918,6 +6934,15 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MD Shanaka",
+                      "substitute":true
+                    },
+                    {
+                      "name": "NLTC Perera"
+                    }
+                  ],
                   "player_out": "HR Walsh"
                 }
               ]
@@ -6944,6 +6969,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "PWH de Silva"
+                    },
+                    {
+                      "name": "NLTC Perera"
+                    }
+                  ],
                   "player_out": "RL Chase"
                 }
               ]

@@ -3589,6 +3589,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SD Hope"
+                    },
+                    {
+                      "name": "SS Cottrell"
+                    }
+                  ],                  
                   "player_out": "PWH de Silva"
                 }
               ]
@@ -4456,6 +4464,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "AD Mathews"
+                    },
+                    {
+                      "name": "I Udana"
+                    }
+                  ],
                   "player_out": "SW Ambris"
                 }
               ]

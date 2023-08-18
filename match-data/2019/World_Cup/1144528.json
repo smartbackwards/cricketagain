@@ -3429,6 +3429,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "RA Jadeja"
+                    }
+                  ],
                   "player_out": "LRPL Taylor"
                 }
               ]
@@ -7029,6 +7034,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MJ Guptill"
+                    }
+                  ],
                   "player_out": "MS Dhoni"
                 }
               ]

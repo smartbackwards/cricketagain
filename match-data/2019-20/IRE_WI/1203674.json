@@ -2861,6 +2861,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "N Pooran"
+                    }
+                  ],
                   "player_out": "MR Adair"
                 }
               ]

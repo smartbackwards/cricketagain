@@ -3321,6 +3321,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Amir"
+                    },
+                    {
+                      "name": "Sarfraz Ahmed"
+                    }
+                  ],
                   "player_out": "C de Grandhomme"
                 }
               ]
@@ -6805,6 +6813,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MJ Guptill"
+                    }
+                  ],
                   "player_out": "Haris Sohail"
                 }
               ]

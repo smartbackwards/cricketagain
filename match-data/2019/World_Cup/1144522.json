@@ -3542,6 +3542,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    },
+                    {
+                      "name": "Mustafizur Rahman"
+                    }
+                  ],
                   "player_out": "B Kumar"
                 }
               ]

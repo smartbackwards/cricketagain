@@ -814,6 +814,17 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "RA Jadeja"
+                    },
+                    {
+                      "name": "SS Iyer"
+                    },
+                    {
+                      "name": "Mohammed Shami"
+                    }
+                  ],
                   "player_out": "AJ Finch"
                 }
               ]

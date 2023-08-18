@@ -1628,6 +1628,14 @@
               "wickets": [
                 {
                   "player_out": "Simi Singh",
+                  "fielders": [
+                    {
+                      "name": "T Banton"
+                    },
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

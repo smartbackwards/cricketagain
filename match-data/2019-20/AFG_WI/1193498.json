@@ -3043,6 +3043,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mujeeb Ur Rahman"
+                    },
+                    {
+                      "name": "Ikram Alikhil"
+                    }
+                  ],
                   "player_out": "JO Holder"
                 }
               ]
@@ -4511,6 +4519,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "KA Pollard"
+                    },
+                    {
+                      "name": "AS Joseph"
+                    }
+                  ],
                   "player_out": "Rahmat Shah"
                 }
               ]

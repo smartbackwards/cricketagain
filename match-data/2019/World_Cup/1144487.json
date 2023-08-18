@@ -4231,6 +4231,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ],
                   "player_out": "Q de Kock"
                 }
               ],

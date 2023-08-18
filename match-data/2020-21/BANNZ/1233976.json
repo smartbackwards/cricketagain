@@ -1755,6 +1755,11 @@
               "wickets": [
                 {
                   "player_out": "Mohammad Mithun",
+                  "fielders": [
+                    {
+                      "name": "JDS Neesham"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

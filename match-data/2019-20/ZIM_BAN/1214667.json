@@ -5507,6 +5507,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Nazmul Hossain Shanto"
+                    },
+                    {
+                      "name": "Mushfiqur Rahim"
+                    }
+                  ],
                   "player_out": "R Mutumbami"
                 }
               ]

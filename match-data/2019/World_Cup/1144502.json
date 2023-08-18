@@ -3438,6 +3438,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "I Udana"
+                    }
+                  ],
                   "player_out": "AT Carey"
                 }
               ]
@@ -3464,6 +3469,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "I Udana"
+                    }
+                  ],
                   "player_out": "PJ Cummins"
                 }
               ]

@@ -7002,6 +7002,11 @@
               "wickets": [
                 {
                   "player_out": "Fakhar Zaman",
+                  "fielders": [
+                    {
+                      "name": "AK Markram"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

@@ -3046,6 +3046,11 @@
               "wickets": [
                 {
                   "player_out": "N Dickwella",
+                  "fielders": [
+                    {
+                      "name": "Shoriful Islam"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

@@ -3468,6 +3468,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "RL Chase"
+                    }
+                  ],
                   "player_out": "RA Jadeja"
                 }
               ]

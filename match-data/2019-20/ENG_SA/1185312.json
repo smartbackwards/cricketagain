@@ -2483,6 +2483,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "T Banton"
+                    },
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ],
                   "player_out": "JT Smuts"
                 }
               ]
@@ -3190,6 +3198,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "AU Rashid"
+                    },
+                    {
+                      "name": "EJG Morgan"
+                    }
+                  ],
                   "player_out": "BE Hendricks"
                 }
               ]

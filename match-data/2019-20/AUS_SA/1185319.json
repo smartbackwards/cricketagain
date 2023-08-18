@@ -3405,6 +3405,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "PJ Cummins"
+                    }
+                  ],
                   "player_out": "AL Phehlukwayo"
                 }
               ]
@@ -6434,6 +6439,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
                   "player_out": "MA Starc"
                 }
               ]

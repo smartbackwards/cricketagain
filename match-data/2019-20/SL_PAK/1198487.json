@@ -2723,6 +2723,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "S Samawickrama"
+                    },
+                    {
+                      "name":"N Pradeep"
+                    }
+                  ],
                   "player_out": "Haris Sohail"
                 }
               ]
@@ -3029,6 +3037,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "HDRL Thirimanne"
+                    }
+                  ],
                   "player_out": "Sarfraz Ahmed"
                 }
               ]
@@ -3490,6 +3503,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "PWH de Silva"
+                    },
+                    {
+                      "name":"N Pradeep"
+                    }
+                  ],
                   "player_out": "Wahab Riaz"
                 }
               ]

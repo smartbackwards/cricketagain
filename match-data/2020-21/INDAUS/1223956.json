@@ -1829,6 +1829,11 @@
               "wickets": [
                 {
                   "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

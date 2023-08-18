@@ -4481,6 +4481,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "KM Jadhav"
+                    },
+                    {
+                      "name": "HH Pandya"
+                    }
+                  ],
                   "player_out": "AJ Finch"
                 }
               ]
@@ -6998,6 +7006,15 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "V Shankar",
+                      "substitute": true
+                    },
+                    {
+                      "name": "B Kumar"
+                    }
+                  ],
                   "player_out": "MA Starc"
                 }
               ]

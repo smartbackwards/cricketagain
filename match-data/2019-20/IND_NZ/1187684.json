@@ -955,6 +955,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "C de Grandhomme"
+                    },
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ],
                   "player_out": "PP Shaw"
                 }
               ]

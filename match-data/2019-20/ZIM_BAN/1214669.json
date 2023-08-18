@@ -5006,6 +5006,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Tamim Iqbal"
+                    },
+                    {
+                      "name": "Mehedi Hasan Miraz"
+                    }
+                  ],
                   "player_out": "R Mutumbami"
                 }
               ]

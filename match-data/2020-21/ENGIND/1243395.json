@@ -6980,6 +6980,14 @@
               "wickets": [
                 {
                   "player_out": "MA Wood",
+                  "fielders": [
+                    {
+                      "name": "HH Pandya"
+                    },
+                    {
+                      "name": "RR Pant"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

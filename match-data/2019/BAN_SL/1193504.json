@@ -6053,6 +6053,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
                   "player_out": "Mosaddek Hossain"
                 }
               ]

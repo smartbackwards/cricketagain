@@ -3360,6 +3360,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SS Cottrell"
+                    }
+                  ],
                   "player_out": "C de Grandhomme"
                 }
               ]

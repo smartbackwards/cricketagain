@@ -4702,6 +4702,14 @@
               "wickets": [
                 {
                   "player_out": "JJ Roy",
+                  "fielders": [
+                    {
+                      "name": "RG Sharma"
+                    },
+                    {
+                      "name": "RR Pant"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

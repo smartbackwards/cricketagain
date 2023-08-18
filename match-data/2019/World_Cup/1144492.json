@@ -5651,6 +5651,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "PJ Cummins"
+                    },
+                    {
+                      "name": "GJ Maxwell"
+                    }
+                  ],
                   "player_out": "SO Hetmyer"
                 }
               ]

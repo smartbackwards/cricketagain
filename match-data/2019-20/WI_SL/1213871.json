@@ -1442,6 +1442,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    },
+                    {
+                      "name": "PWH de Silva"
+                    }
+                  ],
                   "player_out": "DM Bravo"
                 }
               ]
@@ -3263,6 +3271,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "AD Mathews"
+                    }
+                  ],
                   "player_out": "JO Holder"
                 }
               ]
@@ -6991,6 +7004,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "SW Ambris"
+                    }
+                  ],
                   "player_out": "PADLR Sandakan"
                 }
               ]

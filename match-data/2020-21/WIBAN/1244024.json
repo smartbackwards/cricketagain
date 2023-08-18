@@ -3618,6 +3618,14 @@
               "wickets": [
                 {
                   "player_out": "Soumya Sarkar",
+                  "fielders": [
+                    {
+                      "name": "AJ Hosein"
+                    },
+                    {
+                      "name":"JN Hamilton"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]
@@ -6728,6 +6736,14 @@
               "wickets": [
                 {
                   "player_out": "AS Joseph",
+                  "fielders": [
+                    {
+                      "name": "Nazmul Hossain Shanto"
+                    },
+                    {
+                      "name":"Mohammad Saifuddin"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

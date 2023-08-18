@@ -1734,6 +1734,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MJ Guptill"
+                    },
+                    {
+                      "name": "TWM Latham"
+                    }
+                  ],
                   "player_out": "Mushfiqur Rahim"
                 }
               ]

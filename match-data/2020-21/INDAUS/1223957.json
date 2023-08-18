@@ -6183,6 +6183,14 @@
               "wickets": [
                 {
                   "player_out": "AT Carey",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    },
+                    {
+                      "name": "KL Rahul"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

@@ -2243,6 +2243,11 @@
               "wickets": [
                 {
                   "player_out": "Tamim Iqbal",
+                  "fielders": [
+                    {
+                      "name": "JDS Neesham"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]
@@ -5987,6 +5992,11 @@
               "wickets": [
                 {
                   "player_out": "DP Conway",
+                  "fielders": [
+                    {
+                      "name": "Tamim Iqbal"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

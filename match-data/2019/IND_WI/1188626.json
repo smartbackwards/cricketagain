@@ -2767,6 +2767,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "FA Allen"
+                    },
+                    {
+                      "name": "KAJ Roach"
+                    }
+                  ],
                   "player_out": "RG Sharma"
                 }
               ]

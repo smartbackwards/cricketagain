@@ -7167,6 +7167,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "MJ Santner"
+                    },
+                    {
+                      "name": "TA Boult"
+                    }
+                  ],
                   "player_out": "AU Rashid"
                 }
               ]
@@ -7183,6 +7191,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "JDS Neesham"
+                    },
+                    {
+                      "name": "TA Boult"
+                    }
+                  ],
                   "player_out": "MA Wood"
                 }
               ]
@@ -7364,6 +7380,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "JJ Roy"
+                    },
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
                   "player_out": "MJ Guptill"
                 }
               ]

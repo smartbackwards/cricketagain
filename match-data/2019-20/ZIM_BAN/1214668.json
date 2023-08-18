@@ -545,6 +545,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "CT Mumba"
+                    }
+                  ],
                   "player_out": "Liton Das"
                 }
               ]
@@ -801,6 +806,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "BRM Taylor"
+                    },
+                    {
+                      "name":"W Madhevere"
+                    }
+                  ],
                   "player_out": "Nazmul Hossain Shanto"
                 }
               ]
@@ -4222,6 +4235,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mehedi Hasan Miraz"
+                    }
+                  ],
                   "player_out": "BRM Taylor"
                 }
               ]

@@ -2897,6 +2897,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nawaz"
+                    },
+                    {
+                      "name": "Sarfraz Ahmed"
+                    }
+                  ],
                   "player_out": "M Bhanuka"
                 }
               ]
@@ -3492,6 +3500,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Amir"
+                    }
+                  ],
                   "player_out": "PADLR Sandakan"
                 }
               ]

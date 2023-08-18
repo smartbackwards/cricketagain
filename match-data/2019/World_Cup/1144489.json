@@ -2010,6 +2010,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "Hashmatullah Shahidi"
+                    },
+                    {
+                      "name": "Mohammad Shahzad"
+                    }
+                  ],
                   "player_out": "NLTC Perera"
                 }
               ]
@@ -5147,6 +5155,11 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "FDM Karunaratne"
+                    }
+                  ],
                   "player_out": "Najibullah Zadran"
                 }
               ]

@@ -1894,6 +1894,14 @@
               "wickets": [
                 {
                   "player_out": "Imam-ul-Haq",
+                  "fielders": [
+                    {
+                      "name": "W Madhevere"
+                    },
+                    {
+                      "name": "Sikandar Raza"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]
@@ -3452,6 +3460,17 @@
               "wickets": [
                 {
                   "player_out": "Wahab Riaz",
+                  "fielders": [
+                    {
+                      "name": "CJ Chibhabha"
+                    },
+                    {
+                      "name": "R Ngarava"
+                    },
+                    {
+                      "name": "BRM Taylor"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

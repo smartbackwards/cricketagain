@@ -3620,7 +3620,7 @@
       "powerplays": [
         {
           "from": 0.1,
-          "to": 9.1,
+          "to": "9.10",
           "type": "mandatory"
         },
         {

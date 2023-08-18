@@ -2956,6 +2956,14 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "DA Miller"
+                    },
+                    {
+                      "name": "Q de Kock"
+                    }
+                  ],
                   "player_out": "MR Marsh"
                 }
               ]

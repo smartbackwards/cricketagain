@@ -2931,6 +2931,17 @@
               "wickets": [
                 {
                   "kind": "run out",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    },
+                    {
+                      "name": "AU Rashid"
+                    },
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
                   "player_out": "MP Stoinis"
                 }
               ]

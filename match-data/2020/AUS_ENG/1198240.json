@@ -4816,6 +4816,15 @@
               "wickets": [
                 {
                   "player_out": "M Labuschagne",
+                
+                  "fielders": [
+                    {
+                      "name": "SW Billings"
+                    },
+                    {
+                      "name":"JC Buttler"
+                    }
+                  ],
                   "kind": "run out"
                 }
               ]

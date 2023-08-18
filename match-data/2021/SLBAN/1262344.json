@@ -3577,7 +3577,7 @@
         },
         {
           "from": 40.1,
-          "to": 48.4,
+          "to": 49.6,
           "type": "mandatory"
         }
       ]
@@ -6892,12 +6892,12 @@
         },
         {
           "from": 10.1,
-          "to": 39.4,
+          "to": 39.6,
           "type": "mandatory"
         },
         {
           "from": 40.1,
-          "to": 44.6,
+          "to": 48.1,
           "type": "mandatory"
         }
       ],
